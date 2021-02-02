@@ -1,4 +1,4 @@
-<img align="center">![Codebreaker Challenge 2020 Solutions Thumbnail](Images/nsalogo.svg)</img>
+<img class="center">![Codebreaker Challenge 2020 Solutions Thumbnail](Images/nsalogo.svg)</img>
 
 # 2020 NSA Codebreaker Challenge
 
