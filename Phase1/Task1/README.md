@@ -9,4 +9,4 @@ In accordance with USSID18, a collection on an American citizen is permitted in 
 
 Downloads:
 
-* [Archive of data from journalist's computer (for tasks 1 & 2) (home.zip)](Phase1/Task1/Files/)
+* [Archive of data from journalist's computer (for tasks 1 & 2) (home.zip)](Phase1/Task1/Files/home.zip)
