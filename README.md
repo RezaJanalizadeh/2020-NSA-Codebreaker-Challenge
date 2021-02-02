@@ -1,7 +1,5 @@
 # 2020 NSA Codebreaker Challenge
-<p align="center">
 ![Codebreaker Challenge 2020 Solutions Thumbnail](Images/nsalogo.svg)
-</p>
 
 ## Overview
 The 2020 Codebreaker Challenge consists of a series of tasks that are worth a varying amount of points based upon their difficulty. This year, we are releasing the challenge in multiple phases.
