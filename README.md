@@ -1,7 +1,7 @@
 # 2020 NSA Codebreaker Challenge
 ![Codebreaker Challenge 2020 Solutions Thumbnail](Images/nsalogo.svg)
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nsa.gov%2Fabout%2Fcryptologic-heritage%2Fcenter-cryptologic-history%2Finsignia%2F&psig=AOvVaw0FC3MsoJizXZQtqKnlHdFN&ust=1612382851975000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD7u6uAzO4CFQAAAAAdAAAAABAD">
+  <img src="https://www.nsa.gov/Portals/70/images/about/cryptologic-heritage/center-cryptologic-history/insignia/nsa-insignia-lg.png">
 </p>
 
 ## Overview
