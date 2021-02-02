@@ -1,6 +1,8 @@
 # 2020 NSA Codebreaker Challenge
 ![Codebreaker Challenge 2020 Solutions Thumbnail](Images/nsalogo.svg)
-
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nsa.gov%2Fabout%2Fcryptologic-heritage%2Fcenter-cryptologic-history%2Finsignia%2F&psig=AOvVaw0FC3MsoJizXZQtqKnlHdFN&ust=1612382851975000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD7u6uAzO4CFQAAAAAdAAAAABAD">
+</p>
 ## Overview
 The 2020 Codebreaker Challenge consists of a series of tasks that are worth a varying amount of points based upon their difficulty. This year, we are releasing the challenge in multiple phases.
 
