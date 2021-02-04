@@ -23,9 +23,3 @@ Facilitate the recovery of the journalist and take actions to prevent another in
 Each task in this year's challenge will require a range of skills. We need you to call upon all of your technical expertise, your intuition, and your common sense to help us locate and rescue the journalist!
 
 Good luck. We hope you enjoy the challenge!
-
-* <b>Phase 1:</b>
-<!--**Task 1** - What's On the Drive? - (Computer Forensics, Command Line, Encryption Tools)               Points: 10 -->
-
-| Task 1 - What's On the Drive? - (Computer Forensics, Command Line, Encryption Tools) | Points: 10 |
-|:------------------------------------------------------------------------------------ | ---------: |
