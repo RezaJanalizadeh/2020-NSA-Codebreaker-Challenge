@@ -4,8 +4,8 @@
   <img src="https://www.nsa.gov/Portals/70/images/about/cryptologic-heritage/center-cryptologic-history/insignia/nsa-insignia-lg.png"width="40%" height="40%">
 </p>
 
-| Task 6 - What's On the Drive? - (Computer Forensics, Command Line, Encryption Tools) | Points: 10 |
-|:------------------------------------------------------------------------------------ | ---------: |
+| Task 6 - Proof of Life - (Signals Analysis)| Points: 1300 |
+|:------------------------------------------ | -----------: |
 
 >Satellite imaging of the location you identified shows a camouflaged building within the jungle. The recon team spotted multiple armed individuals as well as drones being used for surveillance. Due to this heightened security presence, the team was unable to determine whether or not the journalist is being held inside the compound. Leadership is reluctant to raid the compound without proof that the journalist is there.
 
