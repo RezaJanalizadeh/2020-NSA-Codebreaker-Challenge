@@ -11,4 +11,4 @@
 
 >Downloads:
 
-* [Archive of data from journalist's computer (for tasks 1 & 2) (home.zip)](file://C:\Users\Reza\Janalizadeh\Documents\GitHub\2020-NSA-Codebreaker-Challenge\Phase1\Task1\Files\home.zip)
+* [Archive of data from journalist's computer (for tasks 1 & 2) (home.zip)](file:///C:\Users\Reza\Janalizadeh\Documents\GitHub\2020-NSA-Codebreaker-Challenge\Phase1\Task1\Files\home.zip)
