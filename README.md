@@ -25,7 +25,7 @@ Each task in this year's challenge will require a range of skills. We need you t
 Good luck. We hope you enjoy the challenge!
 
 * <b>Phase 1:</b>
-**Task 1** - What's On the Drive? - (Computer Forensics, Command Line, Encryption Tools)               Points: 10  
+<!--**Task 1** - What's On the Drive? - (Computer Forensics, Command Line, Encryption Tools)               Points: 10 -->
 
 | Task 1 - What's On the Drive? - (Computer Forensics, Command Line, Encryption Tools) | Points: 10 |
 |:------------------------------------------------------------------------------------ | ---------: |
