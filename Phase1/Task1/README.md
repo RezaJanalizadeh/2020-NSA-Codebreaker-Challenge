@@ -11,4 +11,4 @@
 
 >Downloads:
 
-* [Archive of data from journalist's computer (for tasks 1 & 2) (home.zip)](.\Files\home.zip)
+* [Archive of data from journalist's computer (for tasks 1 & 2) (home.zip)](./Files/home.zip)
