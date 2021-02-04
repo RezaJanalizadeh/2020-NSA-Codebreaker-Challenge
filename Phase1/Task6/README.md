@@ -4,13 +4,15 @@
   <img src="https://www.nsa.gov/Portals/70/images/about/cryptologic-heritage/center-cryptologic-history/insignia/nsa-insignia-lg.png"width="40%" height="40%">
 </p>
 
-| Task 1 - What's On the Drive? - (Computer Forensics, Command Line, Encryption Tools) | Points: 10 |
+| Task 6 - What's On the Drive? - (Computer Forensics, Command Line, Encryption Tools) | Points: 10 |
 |:------------------------------------------------------------------------------------ | ---------: |
 
->In accordance with USSID18, a collection on an American citizen is permitted in cases where the person is reasonably believed to be held captive by a group engaged in international terrorism. As a result, we have obtained a copy of the home directory from the journalist's laptop and are hoping it will contain information that will help us to locate and rescue the hostage. Your first task is to analyze the data and files available in the journalist's home directory.
+>Satellite imaging of the location you identified shows a camouflaged building within the jungle. The recon team spotted multiple armed individuals as well as drones being used for surveillance. Due to this heightened security presence, the team was unable to determine whether or not the journalist is being held inside the compound. Leadership is reluctant to raid the compound without proof that the journalist is there.
+
+>The recon team has brought back a signal collected near the compound. They suspect it is a security camera video feed, likely encoded with a systematic Hamming code. The code may be extended and/or padded as well. We've used BPSK demodulation on the raw signal to generate a sequence of half precision floating point values. The floats are stored as IEEE 754 binary16 values in little-endian byte order within the attached file. Each float is a sample of the signal with 1 sample per encoded bit. You should be able to interpret this to recover the encoded bit stream, then determine the Hamming code used. Your goal for this task is to help us reproduce the original video to provide proof that the journalist is alive and being held at this compound.
 
 >Downloads:
 
-* [Archive of data from journalist's computer (for tasks 1 & 2) (home.zip)](./Files/home.zip)
+* [Collected Signal (signal.ham)](./Files/home.zip)
 
 **Solution:**
