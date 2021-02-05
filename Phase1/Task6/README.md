@@ -23,4 +23,16 @@
 
 >Assuming a sign bit of 0 in the IEEE 754 binary 16 format, i.e., a positive amplitude corresponds to the data bit 1 and a sign bit of 1 in the IEEE 754 binary 16 format, i.e., a negative amplitude corresponds to the data bit 0, one can obtain the first 3 frames as follows:
 
-`0	1	0	1	0	0	1	0	0	1	0	1	0	1	1	1	0`  
+>`0	1	0	1	0	0	1	0	0	1	0	1	0	1	1	1	0`
+>`0	1	0	0	1	0	1	0	0	0	1	0	0	1	1	0	0`
+>`1	0	0	1	0	0	0	1	1	0	1	0	1	1	1	0	0` 
+
+
+
+
+
+
+
+
+
+
