@@ -29,7 +29,7 @@
 
 >`1	0	0	1	0	0	0	1	1	0	1	0	1	1	1	0	0`
 
-> We note that due to the little-endian byte order, the location of the sign bits in the stream are `9, 25, 41, 57, ...`. The data bits corresponding to the above frames are as follows
+> We note that due to the little-endian byte order, the location of the sign bits in the stream are `9, 25, 41, 57, ...` (where the bits have been coounted from 1, otherwirse counting from 0 the location of the sign bits in the stream will be `8, 24, 40, 56, ...`). The data bits corresponding to the above frames are as follows
 
 >`0	1	0	1	0	0	1	0	0	1	0`
 
