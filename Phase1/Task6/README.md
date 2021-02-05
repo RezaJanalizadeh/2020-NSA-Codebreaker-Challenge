@@ -41,7 +41,7 @@
 
 >`0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	1	0	0	0	1	1	0 = 0x52494646 = RIFF`
 
-> In other words, after some processing the first 4 (data) bytes of the received signal is RIFF which stands for Resource Interchange File Format, and according to [Wikipedia](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format#:~:text=The%20Resource%20Interchange%20File%20Format,to%20store%20any%20arbitrary%20data.) is a generic file container format for storing data in tagged chunks which is primarily used to store multimedia such as sound and video, though it may also be used to store any arbitrary data.  
+> In other words, after some processing the first 4 (data) bytes of the received signal is RIFF which stands for Resource Interchange File Format, and according to [Wikipedia](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format#:~:text=The%20Resource%20Interchange%20File%20Format,to%20store%20any%20arbitrary%20data.) is a generic file container format for storing data in tagged chunks which is primarily used to store multimedia such as sound and video, though it may also be used to store any arbitrary data. At this point in the task, this is good news and the only remaining task is to determine the correct 11 data bits in each 17 bit frame sent by the transmitter. We emphasize that bits in the received signal may have flipped due to errors occuring during transmission of signal in the communication channel, and therefore simply extracting the 11 data bits from each frame does not ensure the correct video file.    
  
 
 
