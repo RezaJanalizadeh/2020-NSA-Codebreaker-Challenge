@@ -37,9 +37,9 @@
 
 >`1	0	0	1	0	0	0	1	1	0	1`
 
-> Concatenating the data bits together (to obtain the stream of data bits the transmitter intends to send before applying any parity bits, extension, and padding we obtain
+> Concatenating the data bits together (to obtain the stream of data bits the transmitter intends to send before applying any parity bits, extension, and padding) and dropping the final bit in the 33 bit stream just to obtain 32 bits corresponding to 4 bytes (possibly ASCII characters) we obtain
 
->`0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	1	0	0	0	1	1	0	1`
+>`0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	1	0	0	0	1	1	0 = 0x52494646 = RIFF`
  
 
 
