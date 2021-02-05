@@ -40,6 +40,8 @@
 > Concatenating the data bits together (to obtain the stream of data bits the transmitter intends to send before applying any parity bits, extension, and padding) and dropping the final bit in the 33 bit stream just to obtain 32 bits corresponding to 4 bytes (possibly ASCII characters) we obtain
 
 >`0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	1	0	0	0	1	1	0 = 0x52494646 = RIFF`
+
+> In other words, after some processing the first 4 (data) bytes of the received signal is RIFF which stands for Resource Interchange File Format, and according to [Wikipedia](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format#:~:text=The%20Resource%20Interchange%20File%20Format,to%20store%20any%20arbitrary%20data.) is a generic file container format for storing data in tagged chunks which is primarily used to store multimedia such as sound and video, though it may also be used to store any arbitrary data.  
  
 
 
