@@ -51,17 +51,19 @@
 
 > The parity-check matrix which I obtained as the solution was:
 
->`[[1,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0],`
+```[
+[1,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0],
 
->`[1,0,0,1,0,1,1,1,1,0,1,0,1,0,0,0,0],`
+[1,0,0,1,0,1,1,1,1,0,1,0,1,0,0,0,0],
 
->`[1,1,1,0,1,1,0,1,0,0,1,0,0,1,0,0,0],`
+[1,1,1,0,1,1,0,1,0,0,1,0,0,1,0,0,0],
 
->`[0,1,1,0,0,0,1,1,1,1,1,0,0,0,1,0,0],`
+[0,1,1,0,0,0,1,1,1,1,1,0,0,0,1,0,0],
 
->`[0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0],`
+[0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0],
 
->`[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]]`
+[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]
+]```
 
 In order to reproduce the original feed one can use MATLAB's powerful Signal Processing Toolbox for error detection and correction. In particular, [here](https://www.mathworks.com/help/comm/ug/error-detection-and-correction.html#fp6984) one can see the process of error detection and correction for a Hamming(7,4) code. One can essentially use the same code snippet (with minor tweaks) to perform error correction in case of this task.
 <div align="center">
