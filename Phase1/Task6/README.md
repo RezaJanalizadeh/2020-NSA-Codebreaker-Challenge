@@ -73,7 +73,7 @@ In order to reproduce the original feed one can use MATLAB's powerful Signal Pro
 ![Decoded Video File](./Files/hostage.gif)
 </div>
 
->As for the timestamp, any of the timestamps at the top of the video while the journalist is visible works.
+>As for the timestamp, any of the timestamps at the top of the video above in which the journalist is seen works.
 
 
 
