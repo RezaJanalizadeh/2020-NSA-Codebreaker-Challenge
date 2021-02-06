@@ -49,6 +49,14 @@
 
 ><b>That matrix seems right since we can play the video, but the timestamp is not formatted properly.</b>
 
+> The parity-check matrix which I obtained as the solution was:
+>`[[1,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0],`
+>`[1,0,0,1,0,1,1,1,1,0,1,0,1,0,0,0,0],`
+>`[1,1,1,0,1,1,0,1,0,0,1,0,0,1,0,0,0],`
+>`[0,1,1,0,0,0,1,1,1,1,1,0,0,0,1,0,0],`
+>`[0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0],`
+>`[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]]`
+
 
 
 
